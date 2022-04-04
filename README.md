@@ -1,11 +1,14 @@
 # Getting Started with Create React App
 # Choice your favorite dress
+
 live link 
 
-# ➡ This is a shopping website
-# ➡ This website on
-# ➡ lskfs
-# ➡ sflk
+# ➡ This is a shopping website order the dress Choice favorite dress
+# ➡ and website review clint reviews add
+# ➡ Dashboard 3 chart monthly sell investment revenu
+# ➡ and last blogs Question ans 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
