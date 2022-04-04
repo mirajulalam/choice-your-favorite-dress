@@ -1,0 +1,15 @@
+.header-link {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.header-link a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: black;
+}
+
+.header-link a:hover {
+    color: orange;
+}
