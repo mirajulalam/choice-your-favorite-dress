@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 # Choice your favorite dress
 
-live link 
+live link https://relaxed-wisp-2ae68b.netlify.app/reviews
 
 # ➡ This is a shopping website order Choice favorite dress
 # ➡ and clint order reviews added check the review
