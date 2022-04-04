@@ -6,7 +6,6 @@ const Reviews = () => {
     const [products, setProducts] = useProducts();
     return (
         <div>
-            <h1>review: {products.length}</h1>
             {
                 products.map(product =>
                     <OrderReviews

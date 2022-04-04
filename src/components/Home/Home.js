@@ -11,8 +11,7 @@ const Home = () => {
             <div className='home-container'>
                 <div className="home-details">
                     <h1>Choice your favorite dress</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br /> At inventore corrupti, atque distinctio id quasi officiis suscipit similique iure minima.
-                    </p>
+                    <p>Welcome to my shopping website.and choice your favorite dress.high quality <br /> flexible dress.this dress price is very low don't miss this offer.</p>
                     <button>Live Demo</button>
                 </div>
                 <div className="home-images">
@@ -22,12 +21,11 @@ const Home = () => {
 
 
             <div className='customer-reviews'>
-                <h1>Customer Reviews({products.length})</h1>
+                <h1 className='customer-title'>Customer Reviews({products.slice(0, 3).length})</h1>
                 {
-                    products.map(item => <ShotOrderReviews
+                    products.slice(0, 3).map(item => <ShotOrderReviews
                         key={item.id}
                         item={item}
-
                     ></ShotOrderReviews>)
                 }
                 <div className="customer-btn">

@@ -1,7 +1,6 @@
 import React from 'react';
 import './OrderReviews.css';
 const OrderReviews = ({ product }) => {
-    console.log(product)
 
     return (
         <div className='order-review'>

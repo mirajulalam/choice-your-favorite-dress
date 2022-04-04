@@ -4,7 +4,7 @@
         "picture": "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWVucyUyMGZhc2hpb258ZW58MHx8MHx8&w=1000&q=80",
         "price": 78,
         "rating": 5,
-        "clintReview": "The shirt is very awesome",
+        "clintReview": "The coat is very awesome",
         "name": "Jeanne Boyle"
     },
     {
@@ -12,7 +12,7 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60EOdYsmFYeXPvvKdxQ9nTZ4eqIMUrMyexA&usqp=CAU",
         "price": 62,
         "rating": 2,
-        "clintReview": "The shirt is very comfotable",
+        "clintReview": "The coat color is very looking awesome",
         "name": "Snyder Grant"
     },
     {
@@ -20,7 +20,7 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x5fviMYOoQ9wQcKkPeCpvm6q7YBROBPb9g&usqp=CAU",
         "price": 138,
         "rating": 3,
-        "clintReview": "The shirt is very suitable for any function",
+        "clintReview": "The coat is very suitable for any function",
         "name": "Rosario Randolph"
     },
     {
@@ -28,7 +28,7 @@
         "picture": "https://thumbs.dreamstime.com/b/business-entrepreneurship-concept-business-entrepreneurship-concept-businessman-manager-pose-wall-career-profession-work-man-104833215.jpg",
         "price": 286,
         "rating": 5,
-        "clintReview": "The dress is looking nice",
+        "clintReview": "The coat is looking nice",
         "name": "Jimenez Hopkins"
     },
     {
@@ -44,7 +44,7 @@
         "picture": "https://images.pexels.com/photos/1964581/pexels-photo-1964581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "price": 322,
         "rating": 3,
-        "clintReview": "The shirt is very nice looking",
+        "clintReview": "The coat is very nice looking",
         "name": "Fry Klein"
     },
     {
@@ -52,7 +52,7 @@
         "picture": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "price": 259,
         "rating": 2,
-        "clintReview": "I like blaser looking so beautiful",
+        "clintReview": "I like coat looking so beautiful",
         "name": "Kelsey Hatfield"
     },
     {
@@ -60,7 +60,7 @@
         "picture": "https://images.pexels.com/photos/2955375/pexels-photo-2955375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "price": 180,
         "rating": 1,
-        "clintReview": "The blaser is very nice",
+        "clintReview": "The coat is very nice",
         "name": "Padilla Stanley"
     }
 ]

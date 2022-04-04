@@ -3,8 +3,8 @@
 
 live link 
 
-# ➡ This is a shopping website order the dress Choice favorite dress
-# ➡ and website review clint reviews add
+# ➡ This is a shopping website order Choice favorite dress
+# ➡ and clint order reviews added check the review
 # ➡ Dashboard 3 chart monthly sell investment revenu
 # ➡ and last blogs Question ans 
 
