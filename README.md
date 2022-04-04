@@ -1,5 +1,8 @@
 # Getting Started with Create React App
+# Choice your favorite dress
+live link 
 
+➡ This is a shopping website
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

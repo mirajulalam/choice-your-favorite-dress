@@ -1,0 +1,19 @@
+.order-review {
+    display: flex;
+    grid-template-columns: 1fr;
+    border: 1px solid gray;
+    background-color: lightgray;
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.order-review img {
+    width: 80px;
+    margin-right: 20px;
+}
+
+.order-detail h1 {
+    margin: 0;
+}
